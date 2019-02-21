@@ -1,4 +1,4 @@
-// 简单起见，这里只演示部分页面，脚本内容摘自 Heng丶原贴文。
+
 function handle(path) {
     // 首页
     if (path == '/zh') {
